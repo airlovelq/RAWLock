@@ -1,0 +1,29 @@
+﻿生成启动时间为 2018/2/2 9:24:36。
+     1>项目“E:\Learn\RAWLock\RAWLock\RAWLock.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\RAWLock.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Visual Studio 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\RAWLock.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt RAWLock.cpp
+         RAWLock.cpp
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Learn\RAWLock\Debug\RAWLock.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\RAWLock.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Learn\RAWLock\Debug\RAWLock.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Learn\RAWLock\Debug\RAWLock.lib" /MACHINE:X86 Debug\RAWLock.exe.embed.manifest.res
+         Debug\RAWLock.obj
+         Debug\ReadAndWriteLock.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\RAWLock.exe.embed.manifest" /manifest Debug\RAWLock.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         RAWLock.vcxproj -> E:\Learn\RAWLock\Debug\RAWLock.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\RAWLock.unsuccessfulbuild”。
+         正在对“Debug\RAWLock.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Learn\RAWLock\RAWLock\RAWLock.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.41
